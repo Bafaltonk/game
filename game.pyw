@@ -624,7 +624,7 @@ def game():
 
 	root.mainloop()
 
-#Функции до игры
+#Функции приветсвенного окна или функции до игры
 def f_1():
 	def answer_1():
 		fr_avtoriz.pack_forget()
